@@ -1,0 +1,21 @@
+{
+    "containerType" : "video",
+    "title" : "The Enthusiast Trap | Office Hours 1",
+    "shortTitle" : "Office Hours 1",
+    "description" : "What is the enthusiast trap, and why does it seem to ensnarl every successful open source project? Also, some excellent listener power user tips for NextCloud.",
+    "shortDescription" : "BSD Now 290!",
+    "releaseDate" : " April 15, 2022",
+    "hdPosterUrl" : "https://jbarchives.github.io/shows/video/office-hours/episode/1/assets/roku/office-hours-1_300x178.jpg",
+    "hdBackgroundImageUrl" : "https://jbarchives.github.io/shows/video/office-hours/assets/roku/office-hours_1920x1080.jpg",
+    "url" : "https://archive.org/download/office-hours-1/Office-Hours-1.mp4",
+    "streamFormat" : "mp4",
+    "extrainfo" : {
+        "hosts" : [
+            "chrisfisher"
+        ],
+        "screenshotUrl" : "https://nextcloud.com/wp-content/uploads/2022/04/mobileDesktop-4.png"
+    },
+    "uniqueProperties" : {
+        "itemDisplayMode" : "episode"
+    }
+}

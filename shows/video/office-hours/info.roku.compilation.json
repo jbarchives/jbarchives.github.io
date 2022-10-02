@@ -5,7 +5,7 @@
     "firstAired" : "2022-04-15",
     "hdPosterUrl" : "https://jbarchives.github.io/shows/video/office-hours/assets/roku/office-hours_375x375.jpg",
     "hdBackgroundImageUrl" : "https://jbarchives.github.io/shows/video/office-hours/assets/roku/office-hours_1920x1080.jpg",
-    "collectionId" : "office-hours-show",
+    "collectionId" : "office-hours-video-show",
     "uniqueProperties" : {
         "itemDisplayMode" : "show"
     }

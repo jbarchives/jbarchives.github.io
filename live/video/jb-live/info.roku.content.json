@@ -1,0 +1,18 @@
+{
+    "containerType" : "videostream",
+    "title" : "Jupiter Broadcasting LIVE!",
+    "shortTitle" : "Watch LIVE!",
+    "description" : "Watch Jupiter Broadcasting LIVE!",
+    "shortDescription" : "Watch LIVE!",
+    "hdPosterUrl" : "pkg://images/assets/LiveVideo_375x375.png",
+    "hdBackgroundImageUrl" : "pkg://images/assets/Solid_2a2a2a_1920x1080.png",
+    "url" : "http://jupiter-hls.secdn.net/jupiter-channel/play/jupiter.smil/playlist.m3u8",
+    "streamFormat" : "hls",
+    "extrainfo" : {
+        "altHdPosterUrl" : "https://www.jupiterbroadcasting.com/wp-content/themes/jb2014/images/logo.png",
+        "altHdBackgroundImageUrl" : "pkg://images/assets/Solid_2a2a2a_1920x1080.png"
+    },
+    "uniqueProperties" : {
+        "itemDisplayMode" : "icon"
+    }
+}

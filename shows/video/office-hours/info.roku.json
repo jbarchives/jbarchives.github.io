@@ -1,0 +1,11 @@
+{
+  "containerType" : "videoshow",
+  "title" : "Office Hourse",
+  "description" : "A podcast for the community of Jupiter Broadcasting, the Open Source media powerhouse of the Internet. Get the inside scope on our projects, the future of independent media, and decentralized community.",
+  "firstAired" : "2022-04-15",
+  "hdPosterUrl" : "https://jbarchives.github.io/shows/video/office-hours/assets/roku/office-hours_375x375.jpg",
+  "hdBackgroundImageUrl" : "https://jbarchives.github.io/shows/video/office-hours/assets/roku/office-hours_1920x1080.jpg",
+  "collectionId" : "office-hours-show",
+  "uniqueProperties" : {
+      "itemDisplayMode" : "show"
+}
